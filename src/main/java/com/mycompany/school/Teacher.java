@@ -56,6 +56,6 @@ public class Teacher {
     
     // print method
     public void print(){
-        System.out.println("First name: " + this.getfName()+ "\nLast name: " + this.getlName() + "\nAMKA: " + this.getAmka() + "Lesson: " + this.getLesson());
+        System.out.println("First name: " + this.getfName()+ "\nLast name: " + this.getlName() + "\nAMKA: " + this.getAmka() + "\nLesson: " + this.getLesson());
     }
 }
