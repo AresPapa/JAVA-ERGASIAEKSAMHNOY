@@ -35,6 +35,6 @@ public class Classroom {
     
     //print method
     public void print(){
-        System.out.println("Class ID: " + this.getClassid() + "\n Class description: " + this.getDesc());
+        System.out.println("Class ID: " + this.getClassid() + "\nClass description: " + this.getDesc());
     }
 }
